@@ -1,7 +1,25 @@
-# Vue 3 + Vite
+# ADMIN-GOODBEAN 中后台管理系统
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+基于VUE3 + Vite + pinia + TDesign 开发的一套中后台管理系统.
 
-## Recommended IDE Setup
+## 项目演示地址
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+建设中～～～
+
+## 项目运行设置
+
+1.安装依赖
+
+``` shell
+npm install
+```
+
+2.本地运行
+
+``` shell
+npm run dev
+```
+
+## 项目截图
+
+建设中～～～
